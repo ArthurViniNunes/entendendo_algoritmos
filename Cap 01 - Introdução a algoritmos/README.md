@@ -1,4 +1,5 @@
 # 📚 Grokking Algorithms
+
 ## Capítulo 1 — Introdução a Algoritmos
 
 > **Status:**  🟨 Em andamento
@@ -7,7 +8,7 @@
 
 ---
 
-# 🎯 Objetivo do capítulo
+## 🎯 Objetivo do capítulo
 
 Escreva, em poucas linhas, qual o propósito deste capítulo.
 
@@ -17,7 +18,7 @@ Exemplo:
 
 ---
 
-# 📖 Conceitos principais
+## 📖 Conceitos principais
 
 Liste os conceitos abordados.
 
@@ -28,7 +29,7 @@ Liste os conceitos abordados.
 
 ---
 
-# 🧠 Resumo
+## 🧠 Resumo
 
 Escreva o resumo com suas próprias palavras.
 
@@ -36,42 +37,42 @@ Escreva o resumo com suas próprias palavras.
 
 ---
 
-# 📚 Novos termos
+## 📚 Novos termos
 
 | Termo | Significado |
-|--------|-------------|
-| | |
-| | |
+|-------|-------------|
+|       |             |
+|       |             |
 
 ---
 
-# ⚙️ Algoritmos apresentados
+## ⚙️ Algoritmos apresentados
 
 | Algoritmo | Complexidade | Objetivo |
-|-----------|-------------|----------|
-| | | |
+|-----------|--------------|----------|
+|           |              |          |
 
 ---
 
-# ⏱️ Complexidade
+## ⏱️ Complexidade
 
-## Tempo
+### Tempo
 
-| Caso | Complexidade |
-|------|--------------|
-| Melhor | |
-| Médio | |
-| Pior | |
+| Caso   | Complexidade |
+|--------|--------------|
+| Melhor |              |
+| Médio  |              |
+| Pior   |              |
 
-## Espaço
+### Espaço
 
-```
+```txt
 O(...)
 ```
 
 ---
 
-# 💡 Intuição
+## 💡 Intuição
 
 Explique por que esse algoritmo funciona.
 
@@ -79,23 +80,23 @@ Use analogias quando possível.
 
 ---
 
-# 📝 Exemplo do livro
+## 📝 Exemplo do livro
 
-## Problema
+### Problema
 
 Descreva o problema.
 
-## Entrada
+### Entrada
 
 ```text
 ```
 
-## Saída
+### Saída
 
 ```text
 ```
 
-## Passo a passo
+### Passo a passo
 
 1.
 2.
@@ -104,67 +105,67 @@ Descreva o problema.
 
 ---
 
-# 💻 Implementação
+## 💻 Implementação
 
-## JavaScript / TypeScript
+### JavaScript / TypeScript
 
 ```ts
 
 ```
 
-## Explicação
+### Explicação
 
 Explique o código.
 
 ---
 
-# ✅ Exercícios do livro
+## ✅ Exercícios do livro
 
-## Exercício X.X
+### Exercício X.X
 
-### Enunciado
-
-> ...
-
-### Minha resposta
-
-```text
-
-```
-
-### Solução
-
-```text
-
-```
-
-### Observações
-
----
-
-## Exercício X.X
-
-### Enunciado
+**Enunciado:**
 
 > ...
 
-### Minha resposta
+**Minha resposta:**
 
 ```text
 
 ```
 
-### Solução
+**Solução:**
 
 ```text
 
 ```
 
-### Observações
+**Observações:**
 
 ---
 
-# ❓Dificuldades encontradas
+### Exercício X.Y
+
+**Enunciado:**
+
+> ...
+
+**Minha resposta:**
+
+```text
+
+```
+
+**Solução:**
+
+```text
+
+```
+
+**Observações:**
+
+---
+
+## ❓Dificuldades encontradas
 
 - ...
 - ...
@@ -172,7 +173,7 @@ Explique o código.
 
 ---
 
-# 🚀 Aplicações práticas
+## 🚀 Aplicações práticas
 
 Onde esse algoritmo é utilizado?
 
@@ -182,7 +183,7 @@ Onde esse algoritmo é utilizado?
 
 ---
 
-# ⚠️ Erros comuns
+## ⚠️ Erros comuns
 
 - ...
 - ...
@@ -190,15 +191,15 @@ Onde esse algoritmo é utilizado?
 
 ---
 
-# 🔄 Comparação com outros algoritmos
+## 🔄 Comparação com outros algoritmos
 
 | Algoritmo | Quando usar | Quando evitar |
-|------------|-------------|---------------|
-| | | |
+|-----------|-------------|---------------|
+|           |             |               |
 
 ---
 
-# 📌 Pontos importantes
+## 📌 Pontos importantes
 
 - ✔
 - ✔
@@ -206,13 +207,13 @@ Onde esse algoritmo é utilizado?
 
 ---
 
-# 🧩 O que aprendi
+## 🧩 O que aprendi
 
 Escreva em poucas linhas o principal aprendizado deste capítulo.
 
 ---
 
-# 📖 Referências
+## 📖 Referências
 
 - Livro: *Grokking Algorithms*
 - Documentações utilizadas
@@ -220,7 +221,7 @@ Escreva em poucas linhas o principal aprendizado deste capítulo.
 
 ---
 
-# ⭐ Nota pessoal
+## ⭐ Nota pessoal
 
 **Dificuldade:** ⭐⭐⭐☆☆
 
@@ -233,7 +234,7 @@ Escreva em poucas linhas o principal aprendizado deste capítulo.
 
 ---
 
-# 📋 Checklist
+## 📋 Checklist
 
 - [ ] Li o capítulo
 - [ ] Fiz todos os exercícios
