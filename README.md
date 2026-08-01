@@ -50,6 +50,8 @@ Cada capítulo contém:
 
 An English version of this study repository is also available:
 
+🚧 Under construction... Please wait until it is ready.
+
 ➡️ [**https://github.com/ArthurViniNunes/grokking-algorithms**](https://github.com/ArthurViniNunes/grokking-algorithms)
 
 ---
