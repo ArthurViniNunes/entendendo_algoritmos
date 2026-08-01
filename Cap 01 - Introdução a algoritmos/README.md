@@ -352,7 +352,6 @@ A busca binária é um algoritmo eficiente para encontrar elementos em listas or
 ## 📖 Referências
 
 - Livro: *Grokking Algorithms*
-- Documentações utilizadas
 - Artigos consultados: [Entendendo as notações Big O, Big Theta e Big Omega em análise de algoritmos](https://medium.com/@adnan.mehrat/understanding-big-o-big-theta-%CE%B8-and-big-omega-%CF%89-notations-in-algorithm-analysis-7f876aa922b4)
 
 ---
