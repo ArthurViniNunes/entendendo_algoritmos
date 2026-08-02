@@ -32,7 +32,7 @@ Cada capítulo contém:
 |----------|--------------------------------------------------------------------------------|--------|
 | 01       | [Introdução a Algoritmos](Cap%2001%20-%20Introdução%20a%20algoritmos/)         | ✅      |
 | 02       | [Ordenação por Seleção](Cap%2002%20-%20Ordenação%20por%20seleção/)             | ✅      |
-| 03       | [Recursão](Cap%2003%20-%20Recursão/)                                           | ⬜      |
+| 03       | [Recursão](Cap%2003%20-%20Recursão/)                                           | ✅      |
 | 04       | [Quicksort](Cap%2004%20-%20Quicksort/)                                         | ⬜      |
 | 05       | [Tabelas Hash](Cap%2005%20-%20Tabelas%20hash/)                                 | ⬜      |
 | 06       | [Pesquisa em Largura (BFS)](Cap%2006%20-%20Pesquisa%20em%20largura/)           | ⬜      |
