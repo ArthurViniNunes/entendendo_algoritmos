@@ -28,19 +28,19 @@ Cada capítulo contém:
 
 ## 📑 Capítulos
 
-| Capítulo | Tema                                                                           | Status |
-|----------|--------------------------------------------------------------------------------|--------|
-| 01       | [Introdução a Algoritmos](Cap%2001%20-%20Introdução%20a%20algoritmos/)         | ✅      |
-| 02       | [Ordenação por Seleção](Cap%2002%20-%20Ordenação%20por%20seleção/)             | ✅      |
-| 03       | [Recursão](Cap%2003%20-%20Recursão/)                                           | ✅      |
-| 04       | [Quicksort](Cap%2004%20-%20Quicksort/)                                         | ✅      |
-| 05       | [Tabelas Hash](Cap%2005%20-%20Tabelas%20hash/)                                 | ✅      |
-| 06       | [Pesquisa em Largura (BFS)](Cap%2006%20-%20Pesquisa%20em%20largura/)           | ⬜      |
-| 07       | [Algoritmo de Dijkstra](Cap%2007%20-%20Algoritmo%20de%20Dijkstra/)             | ⬜      |
-| 08       | [Algoritmos Gulosos](Cap%2008%20-%20Algoritmos%20gulosos/)                     | ⬜      |
-| 09       | [Programação Dinâmica](Cap%2009%20-%20Algoritmos%20de%20dinâmica/)             | ⬜      |
-| 10       | [K-Vizinhos Mais Próximos (KNN)](Cap%2010%20-%20K-vizinhos%20mais%20próximos/) | ⬜      |
-| 11       | [Próximos Passos](Cap%2011%20-%20Próximos%20passos/)                           | ⬜      |
+| Capítulo | Tema                                                                                    | Status |
+|----------|-----------------------------------------------------------------------------------------|--------|
+| 01       | [Introdução a Algoritmos](Cap%2001%20-%20Introdução%20a%20algoritmos/README.md)         |  ✅    |
+| 02       | [Ordenação por Seleção](Cap%2002%20-%20Ordenação%20por%20seleção/README.md)             |  ✅    |
+| 03       | [Recursão](Cap%2003%20-%20Recursão/README.md)                                           |  ✅    |
+| 04       | [Quicksort](Cap%2004%20-%20Quicksort/README.md)                                         |  ✅    |
+| 05       | [Tabelas Hash](Cap%2005%20-%20Tabelas%20hash/README.md)                                 |  ✅    |
+| 06       | [Pesquisa em Largura (BFS)](Cap%2006%20-%20Pesquisa%20em%20largura/README.md)           |  🟨    |
+| 07       | [Algoritmo de Dijkstra](Cap%2007%20-%20Algoritmo%20de%20Dijkstra/README.md)             |  ⬜    |
+| 08       | [Algoritmos Gulosos](Cap%2008%20-%20Algoritmos%20gulosos/README.md)                     |  ⬜    |
+| 09       | [Programação Dinâmica](Cap%2009%20-%20Algoritmos%20de%20dinâmica/README.md)             |  ⬜    |
+| 10       | [K-Vizinhos Mais Próximos (KNN)](Cap%2010%20-%20K-vizinhos%20mais%20próximos/README.md) |  ⬜    |
+| 11       | [Próximos Passos](Cap%2011%20-%20Próximos%20passos/README.md)                           |  ⬜    |
 
 > **Legenda:** ⬜ Não iniciado • 🟨 Em andamento • ✅ Concluído
 
