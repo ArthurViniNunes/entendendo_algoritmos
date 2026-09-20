@@ -2,30 +2,24 @@
 
 ## Capítulo 6 — Pesquisa em largura
 
-> **Status:**  ⬜ Não iniciado
+> **Status:** 🟨 Em andamento
 >
-> **Data de estudo:** DD/MM/YYYY
+> **Data de estudo:** 14/09/2026
 
 ---
 
 ## 🎯 Objetivo do capítulo
 
-Escreva, em poucas linhas, qual o propósito deste capítulo.
-
-Exemplo:
-
-> Entender o funcionamento da busca binária, sua eficiência e quando utilizá-la.
+O objetivo do capítulo é o de aprender a moderlar uma rede usando grafos, apresentar a ideia do algoritmo de BFS (Busca em Largura)
+e ofertar o contato inicial com a estrutura de dados de grafos, bem como suas peculiaridades.
 
 ---
 
 ## 📖 Conceitos principais
 
-Liste os conceitos abordados.
-
-- Conceito 1
-- Conceito 2
-- Conceito 3
-- Conceito 4
+- Grafos
+- Modelagem
+- Busca
 
 ---
 
@@ -39,10 +33,12 @@ Escreva o resumo com suas próprias palavras.
 
 ## 📚 Novos termos
 
-| Termo | Significado |
-|-------|-------------|
-|       |             |
-|       |             |
+| Termo   | Significado |
+|---------|-------------|
+| Grafo   |             |
+| Vértice |             |
+| Aresta  |             |
+| BFS     |             |
 
 ---
 
@@ -50,7 +46,7 @@ Escreva o resumo com suas próprias palavras.
 
 | Algoritmo | Complexidade | Objetivo |
 |-----------|--------------|----------|
-|           |              |          |
+| BFS       |              |          |
 
 ---
 
