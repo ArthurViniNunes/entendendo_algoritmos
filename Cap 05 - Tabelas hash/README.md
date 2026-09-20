@@ -16,7 +16,6 @@ O objetivo central é introduzir a estrutura de dados hash e suas nuances.
 
 ## 📖 Conceitos principais
 
-
 - Hash
 - Colisões
 - Consistência
@@ -34,13 +33,11 @@ uma vez que a mesma deve evitar as colisões enquanto mantêm sua consistência.
 
 ## 📚 Novos termos
 
-
 | Termo | Significado |
 | :--- | :--- |
 | **Colisão | Ocorre quando dois elementos diferentes geram exatamente o mesmo índice através da função hash. Como duas chaves não podem ocupar o mesmo espaço diretamente, a tabela precisa de uma estratégia (como encadeamento ou endereçamento aberto) para resolver o conflito. |
 | Função Hash | O algoritmo responsável por transformar uma chave de entrada (como um texto ou número) em um índice numérico dentro dos limites do array da tabela. Uma boa função distribui os elementos de forma uniforme para evitar colisões. |
 | Fator de carga | A razão entre o número de elementos armazenados e o tamanho total da tabela ($\alpha = \frac{n}{k}$). Ele indica o quão cheia a tabela está e é usado para decidir o momento exato de redimensioná-la (fazer o *rehash*) para manter as buscas rápidas. |
-
 
 ---
 
@@ -133,7 +130,7 @@ Caso contrário registro o nome da pessoa, marcando como já votante (valor `tru
 
 > Quais destas funções hash são consistentes?
 
-> 5.1 f(x) = 1 
+> 5.1 f(x) = 1
 > *retorna 1 independentemente da entrada*
 
 > 5.2 f(x) = rand()
@@ -163,7 +160,7 @@ Isso ocorre somente nas funções 5.1 e 5.4.
 Reforço, porém para atenção. Para ser uma "boa" função de hash, não basta apenas ser consistente.
 É necessário um estudo para diminuir ao máximo o número de colisões para que a estrutura de dados permaneça eficiente.
 
-Exemplo: 
+Exemplo:
 
 f(x) = 1 realmente é consistente, mas é uma PÉSSIMA função de hashing, por causar colisões em todas as entradas,
 o que diminui a eficácia da estrutura de dados drásticamente.
@@ -186,19 +183,18 @@ que iniciam com a letra a são hasheadas juntas e assim por diante.
 >d. Mapeie cada letra para um número primo: a = 2, b = 3, c = 5, d = 7, e =
 11, e assim por diante. Para uma string, a função hash é a soma de todos
 os caracteres-módulo² conforme o tamanho da hash. Se o tamanho de
-sua hash for 10, por exemplo, e a string for “bag”, o índice será (3 + 2 +
-17) % 10 = 22 % 10 = 2.
+sua hash for 10, por exemplo, e a string for “bag”, o índice será (3 + 2 + 1) % 10 = 22 % 10 = 2.
 >
 >Para cada um destes exemplos, qual função hash fornecerá uma boa
 distribuição? Considere que o tamanho da tabela hash tenha dez espaços.
-
+>
 >5.5 Uma lista telefônica em que as chaves são os nomes e os valores são os
 números telefônicos. Os nomes são os seguintes: Esther, Ben, Bob e
 Dan.
-
+>
 >5.6 Um mapeamento do tamanho de baterias e sua devida potência. Os
 tamanhos são A, AA, AAA e AAAA.
-
+>
 >5.7 Um mapeamento de títulos de livros e autores. Os títulos são Maus,
 Fun Home e Watchmen.
 
