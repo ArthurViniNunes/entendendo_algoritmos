@@ -35,7 +35,7 @@ Cada capítulo contém:
 | 03       | [Recursão](Cap%2003%20-%20Recursão/README.md)                                           |  ✅    |
 | 04       | [Quicksort](Cap%2004%20-%20Quicksort/README.md)                                         |  ✅    |
 | 05       | [Tabelas Hash](Cap%2005%20-%20Tabelas%20hash/README.md)                                 |  ✅    |
-| 06       | [Pesquisa em Largura (BFS)](Cap%2006%20-%20Pesquisa%20em%20largura/README.md)           |  🟨    |
+| 06       | [Pesquisa em Largura (BFS)](Cap%2006%20-%20Pesquisa%20em%20largura/README.md)           |  ✅    |
 | 07       | [Algoritmo de Dijkstra](Cap%2007%20-%20Algoritmo%20de%20Dijkstra/README.md)             |  ⬜    |
 | 08       | [Algoritmos Gulosos](Cap%2008%20-%20Algoritmos%20gulosos/README.md)                     |  ⬜    |
 | 09       | [Programação Dinâmica](Cap%2009%20-%20Algoritmos%20de%20dinâmica/README.md)             |  ⬜    |
